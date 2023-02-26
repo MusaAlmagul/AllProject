@@ -15,4 +15,18 @@ struct DetailedMovieData: Decodable {
     let overview: String
 }
 
-//MARK: - Test
+//MARK: - Deta
+
+//MARK: - Setup View and constrains methods
+
+extension SightTableViewCell {
+    
+    func setupsViews() {
+        
+    }
+    
+    func setupConstrains() {
+        
+    }
+}
+
